@@ -1,0 +1,15 @@
+# Skills
+- skill: Programming Languages
+  description: Java, C#, Python, Javascript, SQL, T-SQL
+
+- skill: Frameworks
+  description: .NET Framework, .NET Core, Entity Framework, Android, MS SQL, xUnit, ASP.NET, MVC
+
+- skill: Technologies
+  description: WebAPI, SOAP, WCF, JSON, Xml, Windows Services, ADO.NET, LINQ, REST, DevExpress, Postman, Mapster, OOPS, Multithreading
+
+- skill: Front-End
+  description: JHTML5, CSS3, AJAX, WPF, WinForm, JQuery
+
+- skill: Version Control
+  description: Git, TFS

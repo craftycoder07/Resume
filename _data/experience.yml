@@ -1,0 +1,29 @@
+# Jobs
+- company: Groundwidgets
+  position: Application Developer
+  duration: Dec, 2018 &mdash; Present
+  summary: Worked at Groundwidgets on Desktop and Windows app using .NET technologies.
+  <ul class="resume-item-list">
+    <li>Led the transformation of our desktop app to a web version, cutting client costs and boosting revenue</li>
+    <li>Pioneered a high-performance SignalR server, reducing database load</li>
+    <li>Engineered a barcode kiosk for an check-in process improvement</li>
+    <li>Developed an IVR solution, cutting operational costs</li>
+    <li>Managed a team, improving code efficiency and reducing bugs.</li>
+  </ul>
+
+- company: Groundwidgets
+  position: Computer System Analyst
+  duration:  Nov, 2017 &mdash; NOv, 2018
+  summary: Improved address validation, accelerating onboarding. Automated custom report generation, reducing user interactions. Resolved WPF app performance issues, achieving faster response times.
+
+
+- company: Transdev North America
+  position: Software Developer
+  duration:   Jan, 2016  &mdash; Aug, 2017
+  summary: Enhanced Android app UX, reducing cognitive load of remembering locations. Cut payload by replacing xml with JSON in API communication. Revamped UI for fewer support tickets. Boosted team's version control proficiency through Git workshops and documentation.
+
+
+company: Transdev North America
+  position: Software Developer Intern
+  duration:   July, 2015  &mdash; Dec, 2015
+  summary: Revamped website, making it responsive and increasing mobile traffic. Fixed critical bugs in Android app and C++ server, reducing reported issues. Led system setup and app updates, cutting integration time.
