@@ -16,7 +16,7 @@
   summary: Enhanced Android app UX, reducing cognitive load of remembering locations. Cut payload by replacing xml with JSON in API communication. Revamped UI for fewer support tickets. Boosted team's version control proficiency through Git workshops and documentation.
 
 
-company: Transdev North America
+- company: Transdev North America
   position: Software Developer Intern
   duration:   July, 2015  &mdash; Dec, 2015
   summary: Revamped website, making it responsive and increasing mobile traffic. Fixed critical bugs in Android app and C++ server, reducing reported issues. Led system setup and app updates, cutting integration time.
