@@ -2,14 +2,7 @@
 - company: Groundwidgets
   position: Application Developer
   duration: Dec, 2018 &mdash; Present
-  summary: Worked at Groundwidgets on Desktop and Windows app using .NET technologies.
-  <ul class="resume-item-list">
-    <li>Led the transformation of our desktop app to a web version, cutting client costs and boosting revenue</li>
-    <li>Pioneered a high-performance SignalR server, reducing database load</li>
-    <li>Engineered a barcode kiosk for an check-in process improvement</li>
-    <li>Developed an IVR solution, cutting operational costs</li>
-    <li>Managed a team, improving code efficiency and reducing bugs.</li>
-  </ul>
+  summary: Worked at Groundwidgets on Desktop and Windows app using .NET technologies. <ul class="resume-item-list"><li>Led the transformation of our desktop app to a web version, cutting client costs and boosting revenue</li><li>Pioneered a high-performance SignalR server, reducing database load</li><li>Engineered a barcode kiosk for an check-in process improvement</li><li>Developed an IVR solution, cutting operational costs</li><li>Managed a team, improving code efficiency and reducing bugs.</li></ul>
 
 - company: Groundwidgets
   position: Computer System Analyst
